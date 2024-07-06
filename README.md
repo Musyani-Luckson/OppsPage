@@ -13,7 +13,7 @@ To use OppsPage, follow these steps:
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/OppsPage.git
+git clone hhttps://github.com/Musyani-Luckson/OppsPage.git
 ```
 
 2. **Customize Error Page**: Open the `index.html` file in your preferred text editor and customize the contents of the error page to suit your needs. You can modify the HTML, CSS, and JavaScript code to reflect your branding and provide relevant error information to the users.
